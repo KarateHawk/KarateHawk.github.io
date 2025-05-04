@@ -1,10 +1,10 @@
 ---
 title: test
 published: 2025-05-04
-description: ''
+description: 'this is the first post'
 image: ''
-tags: []
-category: ''
+tags: [dingle, dangle]
+category: 'Front-end'
 draft: false 
 lang: ''
 ---
