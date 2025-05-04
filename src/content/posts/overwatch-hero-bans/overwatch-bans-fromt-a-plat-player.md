@@ -43,7 +43,7 @@ Now, I have a unique position where I only benefit from hero bans. This is becau
 
 I don't subscribe to some of the sentiment that I've seen online about how "X-Character mains deserve being banned for playing character's I hate." I feel like people who think that way are upset about other things inside and outside the game and use insert hot-button character here as an escape from addressing holes in their own gameplay.
 
-My greatest hope, however, is that after the dust settles and the ban-rates of character have normalized, this data can give the balancing team at Blizzard a clear look into which characters cause the most pain-point in play, and potentially find ways to rework them so that they are still fun to play and are fun to play against.
+My greatest hope, however, is that after the dust settles and the ban-rates of characters have normalized, this data can give the balancing team at Blizzard a clear look into which heroes cause the most pain-points in play, and potentially find ways to rework them so that they are still fun to play and are fun to play against.
 
 But either way, I'm having a blast playing the game again. I feel like I have greater control over my playing experience, that I get to tailor my games to play out the way I want, and that my matches get more interesting now that my opponents can't just swap to a counter character and throw all the difficult decision-making onto me. And hey! I've finally broken out of metal-rank hell and climbed my tank rank all the way up to diamond for the first time ever. So that's something to celebrate at the end of the day.
 
