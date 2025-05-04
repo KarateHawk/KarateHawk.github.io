@@ -57,11 +57,11 @@ export const profileConfig: ProfileConfig = {
 	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 	links: [
 		{
-			name: "Twitter",
+			name: "Discord",
 			icon: "fa6-brands:discord", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
+			url: "https://discordapp.com/users/254777358416871427",
 		},
 		{
 			name: "Steam",
