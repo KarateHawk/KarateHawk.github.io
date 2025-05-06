@@ -69,9 +69,9 @@ export const profileConfig: ProfileConfig = {
 			url: "https://steamcommunity.com/profiles/76561198069158580/",
 		},
 		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com/saicaca/fuwari",
+			name: "Kofi",
+			icon: "simple-icons:kofi",
+			url: "https://ko-fi.com/haydenkrile",
 		},
 	],
 };

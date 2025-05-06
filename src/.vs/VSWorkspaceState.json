@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\content",
+    "\\content\\posts",
+    "\\content\\posts\\guide",
+    "\\content\\posts\\overwatch-hero-bans",
+    "\\content\\spec"
   ],
-  "SelectedNode": "\\config.ts",
+  "SelectedNode": "\\content\\spec\\about.md",
   "PreviewInSolutionExplorer": false
 }
