@@ -86,13 +86,13 @@ Necrons model only. In the Fight Phase, each time a model in the bearer's unit i
 
 Yikes. Where to start with this one. For one, it's expensive. 25 points for a coin-flips chance my model gets to fight back is pretty sucky. For two, the units that could make use of this from the Necron range really don't get a lot of mileage from this effect.
 
-The power of fight on death comes down to what you need to roll to have it take effect. Something like a fight on death on a 2+ is excellent for something like and elite infantry squad. Being able to stage up something like a Skorpekh squad with a 2+ fight on death totally shifts the calculus your opponent needs to think about when they are figuring out what to send to kill that unit. With a 2+, there is a real good chance that whatever they send won't be coming back, as that squad is going to be able to punch back at 80% power.
+The power of fight on death comes down to what you need to roll to have it take effect. Something like a fight on death on a 2+ is excellent for something like and elite infantry squad. Being able to stage up something like a Skorpekh squad with a 2+ fight on death totally shifts the calculus your opponent needs to think about when they are figuring out what to send to kill that unit. With a 2+, there is a real good chance that whatever they send won't be coming back, as your Skorpekh squad is going to be able to punch back at 80% power.
 
 Whereas something like a 4+ fight on death is best used in a high model count unit that can punch above it's weight. A 4+ doesn't feel so bad when you have a 20-model squad, since you'll probably still be punching up into whatever charged you. 
 
 So do we got anything like that in the range to fit the bill? It's worth nothing that this enhancement could go on any Necron character model, so let's take a look at all the melee-focused options the range has to offer. You got the aforementioned Skorpekh, Wraiths, and Lychguard.
 
-Well, as discussed before, elite melee squads want a more consistent fight on death number, so Skorpekhs and Wraiths are right out since they only come in 6-mans, and Lychguard function more as anvils instead of hammers. Their melee profile is pretty underwhelming, and you don't play them to kill things but to stand on a point and waste your opponents' resources. So this enhancement gets a thumbs down from me. Come on last enhancement, save us all from this mediocrity.
+Well, as discussed before, elite melee squads want a more consistent fight on death number, so Skorpekhs and Wraiths are right out since they max out at 6-mans, and Lychguard function more as anvils instead of hammers. Their melee profile is pretty underwhelming, and you don't play them to kill things but to stand on a point and waste your opponents' resources. So this enhancement gets a thumbs down from me. Come on last enhancement, save us all from this mediocrity.
 
 
 :::note[Ingrained Superiority - 10 Pts.]
