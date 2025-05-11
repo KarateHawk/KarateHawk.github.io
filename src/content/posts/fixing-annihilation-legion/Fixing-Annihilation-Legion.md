@@ -44,7 +44,7 @@ All of those data sheets sound really nice, right? Sure, there is no 'centerpiec
 
 You should never run any of these datasheets in AL, because they would be better served in other detachments.
 
-Let's go over the rules AL grants the user, so we can get an understanding of why I say this. The detachment rule reads:
+Let's go over the rules AL grants the user, so we can get an understanding of why I say this.
 
 ## Da Rules
 
@@ -59,9 +59,9 @@ Now, I really like the second half of that rule. Setting Enmitic Destroyers up t
 
 What's this re-roll bullshit? Honestly, who thought this would be something worth making an entire detachment rule for? Lemme explain.
 
-Anyone who has played a melee army already knows how important making a charge is. Making and failing a charge roll is the difference between wiping an enemy unit off the board and doing no damage. Because of this, anyone who has even a modicum of sense is going to stage their units on the board so they can make a charge of 7' or less. This is because any charge at or below 7' is statistically more likely with a 2d6 roll. And even still, you're going to be packing a CP in reserves because re-rolling a charge roll with the Command Re-roll global stratagem is the most efficient way you could spend CP. All of this is to say that getting to reroll charges as a native ability is cute, but it doesn't improve the effectiveness of your unit much at all.
+Anyone who has played a melee army already knows how important making a charge is. Making and failing a charge roll is the difference between wiping an enemy unit off the board and doing no damage. Because of this, anyone who has even a modicum of sense is going to stage their units on the board so they can make a charge of 7" or less. This is because any charge at or below 7' is statistically more likely with a 2d6 roll. And even still, you're going to be packing a CP in reserves because re-rolling a charge roll with the Command Re-roll global stratagem is the most efficient way you could spend CP. All of this is to say that getting to reroll charges as a native ability is cute, but it doesn't improve the effectiveness of your unit much at all.
 
-And what's with this “+1 to charge if the targe is nearly dead' bullshit? Setting aside how borked being below half strength is in Warhammer, whose really gonna be chomping at the bit for the tiniest buff to a charge distance if a unit is practically dead? Such a total waste of potential.
+And what's with this "+1 to charge if the targe is nearly dead" bullshit? Setting aside how borked being below half strength is in Warhammer, whose really gonna be chomping at the bit for the tiniest buff to a charge distance if a unit is practically dead? Such a total waste of potential.
 
 But hey, maybe the power of the detachment doesn't lie in it's detachment rule. The enhancements gotta be worth taking, right? Really juice up the melee weapons of the characters some? Maybe do something awesome like giving the detachment some damage mitigation tricks? Let's take a look.
 
