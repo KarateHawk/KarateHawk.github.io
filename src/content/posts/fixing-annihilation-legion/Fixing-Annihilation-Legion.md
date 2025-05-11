@@ -36,9 +36,9 @@ Heavy Destroyers are even better. They come with two gun profiles, the first is 
 
 The Lokhust Lord and lead both of these units, and provides them with critical hits on 5+, an optional resurrection orb, and a solid melee profile that can help clear away any chaff that may charge your unit to tangle them up.
 
-And Finally, Ophydian Destroyers are a pretty decent scoring piece. They have native deep strike, move 10', and their ability lets them uppie-dowie at the end of your opponents turn. This makes them perfect action monkeys to snake out and score secondaries while your main forces push up the board. They also have access to the once-per-game dev wounds the Skorpekhs have, and they are OC2, which means you could also send a 3-man forward as an early game trade-piece to clear out any light infantry your opponent may have placed on an objective and deny some primary points for a turn.
+And Finally, Ophydian Destroyers are a pretty decent scoring piece. They have native deep strike, move 10", and their ability lets them uppie-dowie at the end of your opponents turn. This makes them perfect action monkeys to snake out and score secondaries while your main forces push up the board. They also have access to the once-per-game dev wounds the Skorpekhs have, and they are OC2, which means you could also send a 3-man forward as an early game trade-piece to clear out any light infantry your opponent may have placed on an objective and deny some primary points for a turn.
 
-All of those data sheets sound really nice, right? Sure, there is no ‘centerpiece' in the range, but if your playstyle leans towards running lots of MSU units that fan out across the board, pop out and break something, and die the next turn, then Annihilation Legion should be the detachment for you! Right?
+All of those data sheets sound really nice, right? Sure, there is no 'centerpiece' in the range, but if your playstyle leans towards running lots of MSU units that fan out across the board, pop out and break something, and die the next turn, then Annihilation Legion should be the detachment for you! Right?
 
 ...Right?
 
