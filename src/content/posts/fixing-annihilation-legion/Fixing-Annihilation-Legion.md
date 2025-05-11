@@ -28,7 +28,7 @@ Flayed Ones are the only unit in the Necron range that come with infiltrate nati
 Each time a model in this unit makes a melee attack, if the target of that attack is below half-strength, a successful Hit roll scores a Critical Hit.
 :::
 
-This makes Flayed Ones an amazing tool as an insurance policy when it comes to taking down large models. If a Rhino or Wave Serpent ever peaks and you just need that little extra edge to chip those 2 wounds off, send in 5 Flayed Ones with their sustained hits on 5's with twin-linked and their make sure the target dies.
+This makes Flayed Ones an amazing tool as an insurance policy when it comes to taking down large models. If a Rhino or Wave Serpent ever peeks and you just need that little extra edge to chip those 2 wounds off, send in 5 Flayed Ones with their sustained hits on 5's with twin-linked and their make sure the target dies.
 
 Lokhust Destroyers make their way into almost every list, but that's just because you can take a single 35-point model to run around and do actions. This isn't to say their stats are bad though - 3 attacks s5 ap2 d2 with lethal hits, with the ability to reroll hits of 1 when shooting the closest target and fully rerolling if that target is on an objective. Pair this with a Lokhust Lord, who gives them Lethal Hits on 5's, and a 6-man squad of these can be a real nice all-around killing unit. The biggest downside is that the unit does become unwieldy to use on the tabletop - 7 60mm bases that cannot move through walls makes lining the whole squad up on a target difficult, but hey - that's what detachment rules are for.
 
