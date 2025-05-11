@@ -2,10 +2,10 @@
 title: Fixing-Annihilation-Legion
 published: 2025-05-11
 description: 'Taking a look on how to improve Necron's worst detachment'
-image: ''
+image: './skorpekhs.jpg'
 tags: [Games, Musings, Balance Changes]
 category: 'Blog'
-draft: false 
+draft: false
 lang: ''
 ---
 # Annihilation Legion
