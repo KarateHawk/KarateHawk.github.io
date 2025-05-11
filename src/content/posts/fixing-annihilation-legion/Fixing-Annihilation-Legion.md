@@ -99,7 +99,7 @@ Well, as discussed before, elite melee squads want a more consistent fight on de
 Necrons model only. Each time a model in the bearer's ujnit makes an attack, on a Critical Wound, improve the Armour Penetration Characteristic of the attack by 1.
 :::
 
-…that's it? I mean, it's only 10 points I guess but your wounds have a 1/6 chance to have +1 ap? Whoooooo cares? Where's the enhancement that supercharges the melee profile of a Skorpekh Lord? Where's the enhancement that gives a unit something cool like Fights First or access to Heroic Intervention for 0CP? Maybe one that gives a unit the Destroyer Cult Keyword so more units can get tossed into the mix of the detachment?
+... that's it? I mean, it's only 10 points I guess but your wounds have a 1/6 chance to have +1 ap? Whoooooo cares? Where's the enhancement that supercharges the melee profile of a Skorpekh Lord? Where's the enhancement that gives a unit something cool like Fights First or access to Heroic Intervention for 0CP? Maybe one that gives a unit the Destroyer Cult Keyword so more units can get tossed into the mix of the detachment?
 
 I guess this one is kinda funny on Heavy Lokhusts and Immortals, since the former can reroll wound rolls of 1 against their weapon's preferred target and the latter can fully reroll the wound roll if the target is standing on an objective, but we already have a native +1ap if you're shooting at your closest eligible target!
 
@@ -164,7 +164,7 @@ Now that we've read all the rules, square this circle with me. Why would I ever 
 If I was in love with Lokhust units, why wouldn't I just play Starshatter? Here's a list of all the benefits Lokhust models get from being mounted:
 
 - Assault on their guns
-- Flat 6' advance
+- Flat 6" advance
 - Move through walls
 - +1 to wound when shooting a unit on an objective
 - -1 to wound on incoming damage
