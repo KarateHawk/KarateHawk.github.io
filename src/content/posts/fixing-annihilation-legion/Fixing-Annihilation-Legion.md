@@ -38,7 +38,7 @@ Lokhust Destroyers make their way into almost every list, but that's just becaus
 
 Heavy Destroyers are even better. They come with two gun profiles, the first is the single shot flat 6 damage Gauss weapon with lethal hits, and the second Enmitic gun is a 6 shot s6 ap1 d1 blaster that has rapid fire 6 within 18' and sustained hits 1. They both have heavy and they both get to reroll wound rolls of 1 when shooting at their preferred target (Gauss gun at monsters and vehicles, Enmitic gun at everything else).
 
-The Lokhust Lord and lead both of these units, and provides them with critical hits on 5+, an optional resurrection orb, and a solid melee profile that can help clear away any chaff that may charge your unit to tangle them up.
+The Lokhust Lord can lead both of these units and provides them with critical hits on 5+, an optional resurrection orb, and a solid melee profile that can help clear away any chaff that may tangle up your shooting unit.
 
 And Finally, Ophydian Destroyers are a pretty decent scoring piece. They have native deep strike, move 10", and their ability lets them uppie-dowie at the end of your opponents turn. This makes them perfect action monkeys to snake out and score secondaries while your main forces push up the board. They also have access to the once-per-game dev wounds the Skorpekhs have, and they are OC2, which means you could also send a 3-man forward as an early game trade-piece to clear out any light infantry your opponent may have placed on an objective and deny some primary points for a turn.
 
