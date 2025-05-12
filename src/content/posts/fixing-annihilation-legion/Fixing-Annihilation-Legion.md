@@ -161,7 +161,7 @@ Holy buckets, this is so much worse. It's a surge move will none of the upsides 
 I'm actually having a difficult time seeing a world where these strat doesn't just help your opponent. I guess maybe in the real late turns of the game, once all the big threats are off the board, if you happen to get plink-shot by something far away this could be handy for some free movement? But everything about this stinks.
 
 
-## How to we fix this pile of junk?
+# How to we fix this pile of junk?
 
 Now that we've read all the rules, square this circle with me. Why would I ever play destroyer cult models in this detachment when they are better served elsewhere? If I wanted to play lots of MSU Skorpekh units, I'm gonna take Awakened Dynasty all day. Getting flat +1 to hit because they are being lead is great, the Hungry Void strat that gives them +1s and +1ap sets their melee profile to s8 ap3 d3 - a chunky difference, I can also give one Skorpekh Lord a 4+ FNP, effectively doubling his wound count, AND I have the Eternal revenant stratagem that lets me stand up a character at the end of the phase. So if you kill a Hexmark or melee my Skorpekh to death, I get to stand those units back up and get free value out of them again.
 
@@ -180,9 +180,9 @@ This is a mounted lover's dream toolbox here! I would never trade all of this fo
 
 So how do we fix this mess that is Annihilation Legion? Well, first I think it's important we first return to the fantasy this detachment is supposed to embody. If we understand the look and feel the army should have, we can then make better decisions on what the rules need to be. The name is Annihilation Legion, the units in the range are all crazed robots whose mind have been contorted into only being driven to kill. They're only fascination is death, and they lose all sense of tactics and strategy when faced against biological life. This detachment should be kill-focused - this is for the person who doesn't care about losing their models if it means they can carve a bigger chunk out of the enemy's forces. This is for your Reinhart mains, your Scandinavian players, your Red-Deck-Wins enjoyers. Alright, let's see how we can match that fantasy with rules that reinforce it.
 
-## Da Fixes
+# Da Fixes
 
-
+## Revised Detachment Rule
 :::important[Revised - Annihilation Protocol]
 Each time a Destroyer Cult or Flayed Ones unit from your army is selected to fight, if that unit made a Charge move this turn, until the end of the phase, add 1 to the Attacks characteristic and Strength of melee weapons equipped by models in that unit 
 
@@ -193,7 +193,7 @@ Finally, a solid damage buff, something the detachment about killing is missing.
 
 I kept the +1ap bit from before, because as I stated earlier, it's a decent damage boost with a fun and thematically appropriate condition. Expose your valuable unit but gain a nice damage buff in return - exactly what we are looking for.
 
-
+## Revised Enhancements
 :::note[Revised - Eternal Madness - 20 pts]
 Lokhust Lord model only. While this model is leading a unit, add 2 to the Movement characteristic of models in the bearer's unit. In addition, each time a models in the bearer's unit makes a Normal, Advance, or Fall Back move, it can move horizontally through terrain features.
 :::
@@ -202,7 +202,7 @@ A little something for the shooty Destroyer Cult models. This detachment as curr
 
 Giving flat +2' is a little worse than assault mathematically but is more consistent. Plus the unit now gets to move through terrain features to make up for that fact. This makes the 6-man Lokhust brick a viable take now, since moving that huge footprint 10' and through terrain features lets you line up all your shots and get full value from the unit.
 
-
+## Revised Stratagems
 :::note[Revised - Ingrained Superiority - 25 pts.]
 Destroyer Cult model only. Once per battle, at the start of the Fight phase, the bearer can use this Enhancement. If it does, unit then end of the phase, model's in the bearer's unit have the Fights First ability.
 :::
@@ -227,7 +227,7 @@ During your opponent's Shooting phase, after an enemy unit has shot at one of yo
 
 Boom. The simplest fix to this stratagem, just make it a proper surge move. To be fair to GW. The idea of having a surge move was not a concept that had made its way across the game yet, but we now live in a world where armies like sisters have access to this powerful tool. Having the random aspect of your movement keeps this strat in check but also provides a degree of uncertainty that your opponent must weigh when choosing whether or not they want to try to take a few models out from your Flayed Ones or Skorpekh squads.
 
-## Please copy my homework James Workshop
+# Please copy my homework James Workshop
 
 And there you have it, if I were to be crowned James Workshop tomorrow, those are the changes I'd make. We now have easy access to a solid and consistent damage buff with he extra strength and damage on the charge; our Lokhust units are a little more attractive now that a squad can gain assault; we got access to once-per-game fights first allowing the player to place a Skorpekh brick further up the board with less fear that they'll all die for nothing; the fight on death has been moved to a 3+ and is now a strat, which allows Flayed Ones to benefit instead of only Skorpekhs; and the reactive move is now a proper surge move, making it a proper tool for pushing the advantage instead of perfectly presenting a unit for your opponent to light up with shooting and then charge.
 
