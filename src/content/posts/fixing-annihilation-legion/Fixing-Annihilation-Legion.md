@@ -42,7 +42,7 @@ The Lokhust Lord can lead both of these units and provides them with critical hi
 
 And Finally, Ophydian Destroyers are a pretty decent scoring piece. They have native deep strike, move 10", and their ability lets them uppie-dowie at the end of your opponents turn. This makes them perfect action monkeys to snake out and score secondaries while your main forces push up the board. They also have access to the once-per-game dev wounds the Skorpekhs have, and they are OC2, which means you could also send a 3-man forward as an early game trade-piece to clear out any light infantry your opponent may have placed on an objective and deny some primary points for a turn.
 
-All of those data sheets sound really nice, right? Sure, there is no 'centerpiece' in the range, but if your playstyle leans towards running lots of MSU units that fan out across the board, pop out and break something, and die the next turn, then Annihilation Legion should be the detachment for you! Right?
+All of those data sheets sound really nice, right? Sure, there is no 'centerpiece' in the range, but if your playstyle leans towards running lots of MSU units that fan out across the board, pop out to break something, and die the next turn, then Annihilation Legion should be the detachment for you! Right?
 
 ...Right?
 
@@ -50,9 +50,9 @@ You should never run any of these datasheets in AL, because they would be better
 
 Let's go over the rules AL grants the user, so we can get an understanding of why I say this.
 
-## Da Rules
+# Da Rules
 
-
+## Detatchment Rule
 :::important[Annihilation Protocol]
 Each time a Destroyer Cult or Flayed Ones unit from your army declares a charge, you can re-roll the charge roll. If one or more targets of the charge are Below Half Strength, add 1 to the Charge roll as well.
 
@@ -69,7 +69,7 @@ And what's with this "+1 to charge if the targe is nearly dead" bullshit? Settin
 
 But hey, maybe the power of the detachment doesn't lie in it's detachment rule. The enhancements gotta be worth taking, right? Really juice up the melee weapons of the characters some? Maybe do something awesome like giving the detachment some damage mitigation tricks? Let's take a look.
 
-
+## Enhancements
 :::note[Soulless Reaper - 20 Pts.]
 Destroyer Cult model only. Each time an enemy unit withing Engagement Range of the bearer's unit is selected to Fall Back, roll one d6: on a 3+ that unit cannot Fall Back this phase and must Remain Stationary
 :::
@@ -109,7 +109,7 @@ I guess this one is kinda funny on Heavy Lokhusts and Immortals, since the forme
 
 Well, alrighty - if the detachment rule is a wet fart and the enhancements are just as dog water, that's gotta mean that there is some nasty sauce lurking in the stratagems. Let's huff some copium and take a look.
 
-
+## Stratagems
 :::tip[Masks of Death - 1CP]
 During your opponent's Shooting Phase or the Fight phase, when your opponent's unit selects a Destroyer Cult or Flayed one unit, until the end of the phase each time an attack targets your unit, subtract 1 from the Hit roll.
 :::
