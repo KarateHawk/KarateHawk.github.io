@@ -20,6 +20,8 @@ This detachment keys off units with the Destroyer Cult or Flayed Ones models. Th
 
 That's a pretty tight range, but hey, on the bright side every unit I just listed is absolutely goated at what they do. 
 
+## Destroyer Cult Model Range
+
 Skorpekh Destroyers are an amazing trade piece. 90 pts for 3 or 180 for 6, they move 8" and pack a powerful melee profile at 4 attacks s7 ap2 d2 - the gold standard for melee profiles. If that wasnt good enough, their native ability allows them to always reroll hit rolls of 1, and fully reroll if they made a charge this turn. And if you need just a little more convincing, they also can gain gain devastating wounds on their attacks once per game per 3 models in the unit. 
 
 They're power goes over the top when paired with a Skorpekh Lord. The Lord is a beast on his own, sitting at toughness 7, 7 wounds, and a 4+ invuln save. His native ability deals impact mortals on the charge, and The Lord's while leading ability gives lethal hits to all melee profiles in her unit. Pair that with the Skorpekhs native reroll hits ability, adn it allows a 3-man squad lead by a Lord to be al all purpose trade piece - being able to blend light chaff units while also having the tools to seriously punch up into some tough tank bodies.
