@@ -130,7 +130,7 @@ Again, another one that's just fine. It can crop up from time to time - being ab
 In your Shooting Phase or the Fight Phase, until the end of the phase whenever your selected Destroyer Cult or Flayed One unit makes and attack that targets a unit below Starting Strength, add 1 to the Hit roll. If the target is Below Half-Strength, add 1 to the Wound roll as well.
 :::
 
-I have complex thoughts on this one. One the one hand, only getting access to your damage buff after the enemy unit has either taken damage at all or is close to death stinks. It really makes this stratagem useless under most circumstances since if you were getting access to that +1 to hit AND +1 to wound, you were probably going to kill the thing even without spending the CP.
+I have complex thoughts on this one. One the one hand, only getting access to your damage buff after the enemy unit has either taken damage at all or is close to death stinks. It really makes this stratagem useless under most circumstances. If you were getting access to that +1 to hit AND +1 to wound, you were probably going to kill the thing even without spending the CP.
 
 But.
 
