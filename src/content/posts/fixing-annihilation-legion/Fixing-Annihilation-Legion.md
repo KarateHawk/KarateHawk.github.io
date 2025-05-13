@@ -102,7 +102,7 @@ Well, as discussed before, elite melee squads want a more consistent fight on de
 
 
 :::note[Ingrained Superiority - 10 Pts.]
-Necrons model only. Each time a model in the bearer's ujnit makes an attack, on a Critical Wound, improve the Armour Penetration Characteristic of the attack by 1.
+Necrons model only. Each time a model in the bearer's unit makes an attack, on a Critical Wound, improve the Armour Penetration Characteristic of the attack by 1.
 :::
 
 ... that's it? I mean, it's only 10 points I guess but your wounds have a 1/6 chance to have +1 ap? Whoooooo cares? Where's the enhancement that supercharges the melee profile of a Skorpekh Lord? Where's the enhancement that gives a unit something cool like Fights First or access to Heroic Intervention for 0CP? Maybe one that gives a unit the Destroyer Cult Keyword so more units can get tossed into the mix of the detachment?
