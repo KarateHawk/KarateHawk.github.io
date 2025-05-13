@@ -130,7 +130,7 @@ Again, another one that's just fine. It can crop up from time to time - being ab
 In your Shooting Phase or the Fight Phase, until the end of the phase whenever your selected Destroyer Cult or Flayed One unit makes and attack that targets a unit below Starting Strength, add 1 to the Hit roll. If the target is Below Half-Strength, add 1 to the Wound roll as well.
 :::
 
-I have complex thoughts on this one. One the one hand, only getting access to your damage buff after the enemy unit has either taken damage at all or is close to death stinks. It really makes this stratagem useless under most circumstances. If you were getting access to that +1 to hit AND +1 to wound, you were probably going to kill the thing even without spending the CP.
+I have complex thoughts on this one. One the one hand, only getting access to your damage buff after the enemy unit has either taken damage at all or is close to death stinks. It really makes this stratagem useless under most circumstances. If you were getting access to that +1 to hit AND +1 to wound, you were probably going to kill the unit you're targeting without spending the CP.
 
 But.
 
@@ -149,7 +149,7 @@ Eek. Not a good one. Riddle me this, why would I want to bring models back into 
 During your opponent's Movement phase, after one of their units ends a Fall back move from one of your Destroyer Cult or Flayed Ones units, roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds. Your unit can then make a Normal move, but must end that move as close as possible to that enemy unit.
 :::
 
-Yikers, looks like we got two stinkers. For starters, having there be a 1/6 chance you just deal 0 damage is a rough start, but even if you do, you're only looking at an average of 2 damage for this CP spent. Maybe if the thing falling back unit is just at 1 wound remaining you might pop this, but otherwise I wouldn't bother.
+Yikers, looks like we got two stinkers. For starters, having there be a 1/6 chance you just deal 0 damage is a rough start, but even if you pass the check, you're only looking at an average of 2 damage for this CP spent. Maybe if the falling back unit is just at 1 wound remaining you might pop this, but otherwise I wouldn't bother.
 
 It also doesn't help that the second half of this stratagem is no good. Only being able to make a normal move AND needing to end as close as possible is just gifting your opponent the perfect target to shoot or charge. If this allowed you to end withing engagement range it would be excellent, but because you're forced into a normal move, I'd pass on this one. Last strat - please save us.
 
