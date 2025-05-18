@@ -17,7 +17,7 @@ Last week I took a look at how the Annihilation Legion could be improved. This w
 
 I'd wager that a fair number of non-Necron players haven't ever seen this unit on the tabletop. The Triarch Stalker is a 110-pt. vehicle. It's this big ol' spider lookin' thing with a Praetorian hitched on its back. It's T8, got 12 wounds, and a 3+/4++. That's a pretty chunky profile for its cost. While a standard melta profile should be the perfect counter to other vehicles of its type, the 4++ is super annoying for your opponent. Just make one too many saves, and your stalker gets to hold primary.
 
-Speaking of primary, this thing is a whopping OC4 and moves 8” while also packing Scout 8”. It's also got a weirdly good profile at 4 attacks hitting on 3's, S7 ap1 D3, meaning if it ever gets its hands on some elite infantry any failed save equals death to that model. With all this in mind, this little guys seems like a pretty good early trade unit - one you throw at your opponent's natural expansion to steal the point for a turn before being blasted away.
+Speaking of primary, this thing is a whopping OC4 and moves 8" while also packing Scout 8". It's also got a weirdly good profile at 4 attacks hitting on 3's, S7 ap1 D3, meaning if it ever gets its hands on some elite infantry any failed save equals death to that model. With all this in mind, this little guys seems like a pretty good early trade unit - one you throw at your opponent's natural expansion to steal the point for a turn before being blasted away.
 
 :::note[Targeting Relay]
 In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, that unit cannot have the Benefit of Cover.
@@ -64,13 +64,13 @@ Your Triarch Stalkers can often be found at the head of your Necron assault, scu
 
 Huh. Interesting, no? This description seems to be describing a totally different unit, because the current iteration of the stalker's got none of these cool abilities. James Workshop calls this unit a 'dedicated tank hunter' who 'advances with a speed and surety that belies its jerking gait.'
 
-I mean, there's a little bit of that in the current datasheet. Moving 8” with Scout 8” is really speedy for a vehicle of its size. Those numbers do play into the idea that this is an early assault weapon whose purpose is to scout ahead of the main force, but this doesn't pan out on the tabletop.
+I mean, there's a little bit of that in the current datasheet. Moving 8" with Scout 8" is really speedy for a vehicle of its size. Those numbers do play into the idea that this is an early assault weapon whose purpose is to scout ahead of the main force, but this doesn't pan out on the tabletop.
 
-For one, the stalker is a big boy. The model is comfortably 150mm around, but because it's a vehicle without a base, it needs to pay the -2” tax anytime that it wishes to pivot when moving. It also cannot move through walls, which makes getting this phat boi up the table a bigger effort than its stats would have you believe.
+For one, the stalker is a big boy. The model is comfortably 150mm around, but because it's a vehicle without a base, it needs to pay the -2" tax anytime that it wishes to pivot when moving. It also cannot move through walls, which makes getting this phat boi up the table a bigger effort than its stats would have you believe.
 
 For second, anti-tank? The particle shredder is strength 7, the heavy gauss array s8, and the heat ray mentioned in the description is only a measly strength 9. For context, the cutoff for most vehicles is T9. This is where your rhinos and other transport equivalents live. Any other proper tanks tend to live in the T10-12 range, so with the stalker's best profile, you're wounding tanks on 4's at best but usually wounding on 5's. A terrible option for killing tanks.
 
-This is why the model has found a home in starshatter over Phalanx, mainly because it gets all the movement it could desire. Because the stalker is a vehicle, in starshatter all of its guns gain assault, it can flat advance 6”, it can move through walls, reactive move d6 after it gets shot, and can gain either +1 to wound or subtract 1 to wound against incoming damage. Now the model is a zippy as the description we read, which is awesome!
+This is why the model has found a home in starshatter over Phalanx, mainly because it gets all the movement it could desire. Because the stalker is a vehicle, in starshatter all of its guns gain assault, it can flat advance 6", it can move through walls, reactive move d6 after it gets shot, and can gain either +1 to wound or subtract 1 to wound against incoming damage. Now the model is a zippy as the description we read, which is awesome!
 
 ## The Fixes
 
