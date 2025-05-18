@@ -3,7 +3,7 @@ title: Fixing Annihilation Legion
 published: 2025-05-11
 description: 'Taking a look on how to improve Necrons worst detachment'
 image: './skorpekhs.jpg'
-tags: [Games, Musings, Balance Changes]
+tags: [Games, Warhammer, Balance Changes]
 category: 'Blog'
 draft: false
 lang: ''
@@ -151,7 +151,7 @@ During your opponent's Movement phase, after one of their units ends a Fall back
 
 Yikers, looks like we got two stinkers. For starters, having there be a 1/6 chance you just deal 0 damage is a rough start, but even if you pass the check, you're only looking at an average of 2 damage for this CP spent. Maybe if the falling back unit is just at 1 wound remaining you might pop this, but otherwise I wouldn't bother.
 
-It also doesn't help that the second half of this stratagem is no good. Only being able to make a normal move AND needing to end as close as possible is just gifting your opponent the perfect target to shoot or charge. If this allowed you to end withing engagement range it would be excellent, but because you're forced into a normal move, I'd pass on this one. Last strat - please save us.
+It also doesn't help that the second half of this stratagem is no good. Only being able to make a normal move AND needing to end as close as possible is just gifting your opponent the perfect target to shoot or charge. If this allowed you to end within engagement range it would be excellent, but because you're forced into a normal move, I'd pass on this one. Last strat - please save us.
 
 
 :::tip[Insanity's Ire - 1CP]
