@@ -56,7 +56,7 @@ Before we go much further into what should change, it's important to first under
 
 Heading over to the Triarch Stalker's page on the official Warhammer site, here's what is has to say:
 
-:::important
+:::important[Triarch Stalker Description]
 Like an enormous mechanical spider, a Triarch Stalker looms over the battlefield with its multiple slicing limbs and devastating weaponry controlled by a high-ranking Triarch Praetorian. When a Triarch Stalker advances, it does so with a speed and surety that belies its jerking gait. Indeed, it can cover all manner of terrain with a deftness and precision seldom found in the walkers of less advanced races. While the Triarch Stalker can mount a wide array of anti-infantry and anti-armour weaponry, it is most commonly employed as a dedicated tank-hunter. They can easily outmanoeuvre more cumbersome tracked vehicles, the better to unleash their withering firepower against the thinner armour presented by the target's flanks and rear.
 
 Your Triarch Stalkers can often be found at the head of your Necron assault, scuttling in front of your legion to tackle those particularly stubborn foes. Like all Necron commanders, you will have factored in a requirement for destroying tanks, and the Triarch Stalker's focussed heat ray will do the job nicely. Once you run out of tanks to destroy, you can then set to work on wiping out any infantry.
