@@ -4,7 +4,7 @@ published: 2025-08-30
 description: 'Learned a thing or two, come gather round.'
 image: ''
 tags: [Warhammer, World Eaters]
-category: ''
+category: 'Blog'
 draft: false 
 lang: ''
 ---
