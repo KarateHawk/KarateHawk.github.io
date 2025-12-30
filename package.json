@@ -1,5 +1,5 @@
 {
-  "name": "fuwari",
+  "name": "whereyouvebeen",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -67,5 +67,21 @@
     "postcss-import": "^16.1.0",
     "postcss-nesting": "^13.0.1"
   },
-  "packageManager": "pnpm@9.14.4"
+  "packageManager": "pnpm@9.14.4",
+  "description": "a short story from my days in university",
+  "main": "svelte.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarateHawk/KarateHawk.github.io.git"
+  },
+  "keywords": [
+    "Short",
+    "Story"
+  ],
+  "author": "Hayden Krile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarateHawk/KarateHawk.github.io/issues"
+  },
+  "homepage": "https://github.com/KarateHawk/KarateHawk.github.io#readme"
 }
