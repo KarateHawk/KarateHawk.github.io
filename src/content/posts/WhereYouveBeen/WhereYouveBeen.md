@@ -42,11 +42,11 @@ The figure stopped and eyed the terrified boy. They closed the notebook and walk
 
 "I'm a shade. I live here." they said, placing a hand on their chest.
 
-"I see…" Jamie said. He found himself forming the start of several sentences with his mouth, but no sound came out. He was flabbergasted to have found something else down here.
+"I see..." Jamie said. He found himself forming the start of several sentences with his mouth, but no sound came out. He was flabbergasted to have found something else down here.
 
 "Everything alright?" the shade said, tilting their head to the side.
 
-"Oh- nothing. Umm… Is anyone else down here, by chance?" he said, looking around the empty cavern.
+"Oh- nothing. Umm... Is anyone else down here, by chance?" he said, looking around the empty cavern.
 
 "No. Just me. I've seen a couple spiders pass through, but they don't talk much."
 
@@ -94,7 +94,7 @@ The two stopped before a large pool of water. Towards the back cavern wall, lay 
 
 The shade shrugged. "I wasn't, then I was. Isn't that how it was for you?"
 
- "I suppose…. Why stay down here if you're so lonely?"
+ "I suppose.... Why stay down here if you're so lonely?"
 
 "Can't leave." The shade said, running their hand across the surface of the pool.
 
@@ -116,7 +116,7 @@ The shade skimmed their hand through the pool. Jamie noticed an ashy color of th
 
 "That can happen to shades?"
 
-"I guess so, but this helps." The shade motioned to the pool. "Speaking of…" They pulled their arm out of the water and took a few steps back. "Last one in smells like sulfur!" They sprinted to the water's edge.
+"I guess so, but this helps." The shade motioned to the pool. "Speaking of..." They pulled their arm out of the water and took a few steps back. "Last one in smells like sulfur!" They sprinted to the water's edge.
 
 "Hey!" Jamie said. The shade vaulted off the stone floor and tucked their legs in. They landed in the water with a large splash, drenching Jamie.
 
@@ -152,7 +152,7 @@ Jamie peered at them. "I thought you said you'd be busy today."
 
 "I was. Now I'm not." The shade said, holding a clump of moss with blue speckles over the banister. "This is the biggest one I've found yet! I'll be sleeping soundly for weeks. It's been rough I'll tell you what."
 
-"Ah, right…" Jamie said, feigning interest. His attention was held on concern for them.
+"Ah, right..." Jamie said, feigning interest. His attention was held on concern for them.
 
 "What were you looking for?" the shade asked.
 
@@ -169,13 +169,13 @@ The shade shook their head. "Nah, encyclopedias are boring."
 Jamie made his way over to the reading nook and took a seat in the big red chair. He opened the book and flipped to the table of contents, skimming until he found an entry labeled "Shades".
 
 # Shades
-The shade; often confused with specters, shadows, and wraiths; is an undead creature and a member of the genus Inmortui. They are often found inhabiting places of ruin: be it an abandoned castle or forgotten manor. Indeed, the larger the influence the structure had in life, the larger the likelihood a shade will take up residence once it's deserted.
+_The shade; often confused with specters, shadows, and wraiths; is an undead creature and a member of the genus Inmortui. They are often found inhabiting places of ruin: be it an abandoned castle or forgotten manor. Indeed, the larger the influence the structure had in life, the larger the likelihood a shade will take up residence once it's deserted._
 
-Depending on the size of the ruin, the appearance a resident shade changes. Smaller huts and cabins may have a shade that take incorporeal forms. A black mist or see-through shadow-esc figure. Larger structures may have a shade that takes on a corporeal body, often with short statures and exaggerated human features.
+_Depending on the size of the ruin, the appearance a resident shade changes. Smaller huts and cabins may have a shade that take incorporeal forms. A black mist or see-through shadow-esc figure. Larger structures may have a shade that takes on a corporeal body, often with short statures and exaggerated human features._
 
 Jamie looked up from the book. He saw the shade intensely scribbling a blue stone on a blank piece of paper across the library. They surely fit the bill for where they were. He kept reading.
 
-Should, however, a ruin be demolished or rehabilitated, the shade's presence will diminish accordingly. Because of this, shades are solitary creatures, believed to be physical manifestations of the longing left behind by the place they inhabit. Depending on the structure, shades may evaporate as soon as someone enters if their residence is small enough, making studying these creatures exceedingly difficult.
+_Should, however, a ruin be demolished or rehabilitated, the shade's presence will diminish accordingly. Because of this, shades are solitary creatures, believed to be physical manifestations of the longing left behind by the place they inhabit. Depending on the structure, shades may evaporate as soon as someone enters if their residence is small enough, making studying these creatures exceedingly difficult._
 
 Jamie's heart sunk. He skimmed ahead, looking for any exceptions or uncertainty in the text.
 
@@ -233,19 +233,19 @@ Jamie whirled around. A small black figure stood atop a large stalagmite, yellow
 
 "Hello." he said, wincing. He was hoping he could make a clean drop.
 
-"It's been pretty lonely down here" The figure shuffled down their perch. "No one to talk to…"
+"It's been pretty lonely down here" The figure shuffled down their perch. "No one to talk to..."
 
-"Well… that really wasn't my choice."
+"Well... that really wasn't my choice."
 
 "Was it?" The shade snapped. "I waited; you know. Every day I thought of you. Where you went. What you might be doing. Why you left." The shade looked at the ground, shuffling the gravel with their feet.
 
-"Well… I'm sorry." Jamie said.
+"Well... I'm sorry." Jamie said.
 
 "Do you have any idea what it's like?! To feel loved and left behind?" The shade shot their eyes up at Jamie, tear streaking down their face. "You just left without saying a word after you took that stupid book!"
 
 "Listen, I-"
 
-"SHUT UP!" The shade screamed, breaking into a full sob. "I only ever had you…  you left without a word. It's like you left me to die down here… it's like I never knew you."
+"SHUT UP!" The shade screamed, breaking into a full sob. "I only ever had you...  you left without a word. It's like you left me to die down here... it's like I never knew you."
 
 Jamie reached for the shade but retracted his arm. As much as he wanted to comfort them, he knew things couldn't go back. He knew too much, and falling back in with them again wasn't an option. He stood silently, letting the shade dob on the floor until they calmed down.
 
